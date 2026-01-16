@@ -1,43 +1,44 @@
 # Business-Process-Automation-App
 This project demonstrates an enterprise-grade Business Process Automation solution built using Microsoft Power Platform and a FastAPI backend. It aligns directly with the responsibilities of a Power Apps Developer (Entry Level) role at KBR.
-Key Features
 
-Power Apps Canvas UI for form-based workflows
+### Key Features
 
-Power Automate approval and notification flows
+- Power Apps Canvas UI for form-based workflows
 
-Secure data modelling with Dataverse and SharePoint Online
+- Power Automate approval and notification flows
 
-FastAPI backend for validation, reporting, and integrations
+- Secure data modelling with Dataverse and SharePoint Online
 
-System Architecture
+- FastAPI backend for validation, reporting, and integrations
 
-The system combines low-code development with scalable backend services to support real-world business rules and automation.
+## System Architecture
 
-Technology Stack
+- The system combines low-code development with scalable backend services to support real-world business rules and automation.
 
-Power Apps (Canvas)
+### Technology Stack
 
-Power Automate
+- Power Apps (Canvas)
 
-Microsoft Dataverse
+- Power Automate
 
-SharePoint Online
+- Microsoft Dataverse
 
-FastAPI (Python)
+- SharePoint Online
 
-Azure App Service / Docker
+- FastAPI (Python)
 
-Learning Outcomes
+- Azure App Service / Docker
 
-Enterprise workflow automation
+### Learning Outcomes
 
-API-driven integrations
+- Enterprise workflow automation
 
-Structured documentation and system design
+- API-driven integrations
 
-Alignment with real-world engineering roles (KBR)
+- Structured documentation and system design
 
-Author
+- Alignment with real-world engineering roles
+
+# Author
 
 Kumbirai Shonhiwa
